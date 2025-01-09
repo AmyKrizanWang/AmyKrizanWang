@@ -3,7 +3,7 @@ Hi there 👋 I 'am **AmyCN1**
 
 
 - 🔭 I’m currently working on leveraging my dev skills
-- ⚡ Fun fact: Balancing work and living is tough, but overwhelming is easy!
+- ⚡ Fun fact: Balancing work and living is tough, but overwhelming - so easy!
 - 🌱 K.I.S.S. Continue digging!
 
 - 💞️ [FunStuff ](https://gatorbug.com/):
