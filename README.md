@@ -4,10 +4,10 @@ Hi there 👋 I 'am Amy
 - ⚡ Fun fact: Balancing work and living is tough, but overwhelming is easy!
 - 🌱 K.I.S.S. Continue digging!
 
-- [FunStuff](https://gatorbug.com/):
-  - Fun Projects
-- [WorkStuff](https://badgergeeks.com/):
-  - Working
+- 💞️ [FunStuff ](https://gatorbug.com/):
+        - Fun Projects by Jack
+- 👀 [WorkStuff ](https://badgergeeks.com/):
+        - Working
 
 
 <!--
