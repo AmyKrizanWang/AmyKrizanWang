@@ -1,8 +1,8 @@
 Hi there 👋 I 'am Amy
 
 - 🔭 I’m currently working on leveraging my dev skills
-- ⚡ Fun fact: Balancing work and living is tough, overwhelming is easy!
-- 🌱 K.I.S.S.
+- ⚡ Fun fact: Balancing work and living is tough, but overwhelming is easy!
+- 🌱 K.I.S.S. Continue digging!
 
 <!--
 **AmyKrizanWang/AmyKrizanWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
