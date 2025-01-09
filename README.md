@@ -4,12 +4,10 @@ Hi there 👋 I 'am Amy
 - ⚡ Fun fact: Balancing work and living is tough, but overwhelming is easy!
 - 🌱 K.I.S.S. Continue digging!
 
-Here are the changes in the `README.md` file along with the commit links:
-
-- [Fun](https://gatorbug.com/):
+- [FunStuff](https://gatorbug.com/):
   - Fun Projects
-- [Demo](https://badgergeeks.com/):
-  - Making a living
+- [WorkStuff](https://badgergeeks.com/):
+  - Working
 
 
 <!--
