@@ -2,7 +2,7 @@ Hi there 👋 I 'am **AmyCN1**
 ---
 
 
-- 🔭 I’m currently working on leveraging my dev skills
+- 🔭 Digging into the AI world, leveraging dev skills with AI stack, diving in!
 - ⚡ Fun fact: Balancing work and living is tough, but overwhelming - so easy!
 - 🌱 K.I.S.S. Continue digging!
 
