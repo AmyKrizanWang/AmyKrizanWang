@@ -3,7 +3,7 @@ Hi there 👋 I 'am **AmyCN1**
 
 
 - 🔭 Digging into the AI world, leveraging dev skills with the AI assistance, diving in and having fun!
-- 😄 AI gives you wiiings [wiiings]([https://badgergeeks.com/](https://medium.com/interesting-stories-only/the-man-who-sued-red-bull-for-not-growing-wings-and-won-13-million-ade8cc851137):
+- 😄 AI gives you wiiings [wiiings](https://medium.com/interesting-stories-only/the-man-who-sued-red-bull-for-not-growing-wings-and-won-13-million-ade8cc851137):
 - ⚡ Fun fact: Balancing work and living is tough, but overwhelming - so easy!
 - 🌱 K.I.S.S. Continue digging!
 
