@@ -2,15 +2,19 @@ Hi there 👋 I 'am **AmyCN1**
 ---
 
 
-- 🔭 Digging into the AI world, leveraging dev skills with AI stack, diving in!
+- 🔭 Digging into the AI world, leveraging dev skills with the AI assistance, diving in and having fun!
+- 😄 AI gives you wiiings 
 - ⚡ Fun fact: Balancing work and living is tough, but overwhelming - so easy!
 - 🌱 K.I.S.S. Continue digging!
 
-- 💞️ [FunStuff ](https://gatorbug.com/):
-        - Fun Projects by Jack
+
 - 👀 [WorkStuff ](https://badgergeeks.com/):
         - Working
+- TBC [WorkStuff ](https://gatorbugs.com/):
+          - Working
 
+- 💞️ [FunStuff ](https://gatorbug.com/):
+        - Fun Projects by Jack
 
 <!--
 **AmyKrizanWang/AmyKrizanWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
