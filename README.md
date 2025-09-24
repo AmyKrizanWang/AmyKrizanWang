@@ -3,9 +3,9 @@ Hi there 👋 I 'am **Amy**
 
 
 - 🔭 Digging into the AI world, leveraging dev skills with the AI assistance, diving in and having fun!
-- 😄 Developers >>> Listening & 👀 >>> "AI gives you [wiiings](https://medium.com/interesting-stories-only/the-man-who-sued-red-bull-for-not-growing-wings-and-won-13-million-ade8cc851137)" AI helps, U decide!
+- 😄 AI helps, U decide! >> "AI gives you [wiiings](https://medium.com/interesting-stories-only/the-man-who-sued-red-bull-for-not-growing-wings-and-won-13-million-ade8cc851137)" 
 - ⚡ Fun fact: Balancing work and living is tough, but overwhelming - so easy!
-- 🌱 K.I.S.S. Continue digging!
+- 🌱 Keep It Simple Silly >> digging is fun!
 
 <!--
 - 👀 [WorkStuff ](https://badgergeeks.com/):
