@@ -1,4 +1,4 @@
-Hi there 👋 I 'am **AmyCN1** 
+Hi there 👋 I 'am **Amy** 
 ---
 
 
