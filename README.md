@@ -7,7 +7,7 @@ Hi there 👋 I 'am **AmyCN1**
 - ⚡ Fun fact: Balancing work and living is tough, but overwhelming - so easy!
 - 🌱 K.I.S.S. Continue digging!
 
-
+<!--
 - 👀 [WorkStuff ](https://badgergeeks.com/):
         - Working
 - TBC [WorkStuff ](https://gatorbugs.com/):
@@ -15,7 +15,7 @@ Hi there 👋 I 'am **AmyCN1**
 
 - 💞️ [FunStuff ](https://gatorbug.com/):
         - Fun Projects by Jack
-
+-->
 <!--
 **AmyKrizanWang/AmyKrizanWang** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
