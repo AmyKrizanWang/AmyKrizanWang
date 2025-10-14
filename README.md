@@ -5,7 +5,7 @@ Hi there 👋 I 'am **Amy**
 <!-- - 🔭 Digging into the AI world, leveraging dev skills with the AI assistance, diving in and having fun!
 - 😄 AI helps, U decide! >> "AI gives you [wiiings](https://medium.com/interesting-stories-only/the-man-who-sued-red-bull-for-not-growing-wings-and-won-13-million-ade8cc851137)" 
 -->
-- ⚡ Fun fact: Work life balance? tough! but overwhelming - So Easy!
+- ⚡ Fun fact: Work life balance? Tough! But overwhelming - So Easy!
 - 🌱 Keep It Simple Silly >> IT Never Boring 🤔 keep digging 
 
 <!--
