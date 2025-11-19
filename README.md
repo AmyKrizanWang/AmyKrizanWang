@@ -6,7 +6,27 @@ Hi there 👋 I 'am **Amy**
 - 😄 AI helps, U decide! >> "AI gives you [wiiings](https://medium.com/interesting-stories-only/the-man-who-sued-red-bull-for-not-growing-wings-and-won-13-million-ade8cc851137)" 
 -->
 - ⚡ Fun fact: Work life balance? Tough! But overwhelming - So Easy!
-- 🌱 Keep It Simple Silly >> IT Never Boring 🤔 keep digging 
+- 🌱 Keep It Simple Silly >> IT Never Boring 🤔 keep digging
+
+- 
+      <style>
+        .libutton {
+          display: flex;
+          flex-direction: column;
+          justify-content: center;
+          padding: 7px;
+          text-align: center;
+          outline: none;
+          text-decoration: none !important;
+          color: #ffffff !important;
+          width: 200px;
+          height: 32px;
+          border-radius: 16px;
+          background-color: #0A66C2;
+          font-family: "SF Pro Text", Helvetica, sans-serif;
+        }
+      </style>
+<a class="libutton" href="https://www.linkedin.com/comm/mynetwork/discovery-see-all?usecase=PEOPLE_FOLLOWS&followMember=amykrizanwang" target="_blank">Follow on LinkedIn</a>
 
 <!--
 - 👀 [WorkStuff ](https://badgergeeks.com/):
